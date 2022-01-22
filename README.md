@@ -18,13 +18,12 @@ This application consists of methods that are used for retrieving and storing da
 
 ## Usage
 
-```python
+```c++
 The main gist of this program
 is being able to create notes 
 or code snippets with or without an internet connection
 so with reliability
 you can retrieve them for later use.
-~~I wish this was a haiku~~
 ```
 
 So this application - 
@@ -46,8 +45,6 @@ So this application -
   * generates `manifest.json` using the `WebpackPwaManifest` plug-in
 
   * is installed as a Progressive Web Application
-  
-  * ~~is not a haiku~~
 
 ```
 
