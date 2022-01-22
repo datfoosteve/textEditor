@@ -8,7 +8,7 @@ This application consists of methods that are used for retrieving and storing da
 
 
 
-**## Usage
+## Usage
 ```python
 The main gist of this program
 is being able to create notes 
