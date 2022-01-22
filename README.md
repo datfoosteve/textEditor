@@ -54,15 +54,15 @@ The following animation demonstrates the application functionality:
 
 The following image shows the application's `manifest.json` file:
 
-![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](.\client\src\images\assets\01-manifest.gif)
+![Demonstration of the finished Unit 19 Homework with a manifest file in the browser.](https://i.imgur.com/93ImloZ.gif)
 
 The following image shows the application's registered service worker:
 
-![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](.\client\src\images\assets\02-service-worker.gif)
+![Demonstration of the finished Unit 19 Homework with a registered service worker in the browser.](https://i.imgur.com/70UdpiX.gif)
 
 The following image shows the application's IndexedDB storage:
 
-![Demonstration of the finished Unit 19 Homework with a IndexedDB storage named 'jate' in the browser.](.\client\src\images\assets\03-idb-storage.gif)
+![Demonstration of the finished Unit 19 Homework with a IndexedDB storage named 'jate' in the browser.](https://i.imgur.com/w19eR5P.gif)
 
 
 ## Links
