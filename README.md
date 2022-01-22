@@ -1,5 +1,12 @@
-# **Jate Text Editor**
-## Unit 19 PWA Homework:
+
+# <p align="center"> **Jate Text Editor**
+#### <p align="center">Unit 19 PWA Homework:
+ 
+</p>
+
+<p align="center">
+  <img width="300" height="300" src="/client/src/images/logo.png">
+</p>
 
 ## Description
 
