@@ -64,7 +64,7 @@ The following image shows the application's IndexedDB storage:
 
 [Deploy Link](https://text-jeditor.herokuapp.com/)
 
-[GitHub Link](https://github.com/datfoosteve/textEditor
+[GitHub Link](https://github.com/datfoosteve/textEditor)
 
 ## License
 
@@ -75,9 +75,10 @@ The following image shows the application's IndexedDB storage:
 Stephen Puthenpurackal
 Eric Sayer(tutor);
 ```
-## Project-Status
+## Project/Assignment-Status
 ```md
-Status-Currently finished and Closed Until Further Notice
+Project Status - Currently finished and Closed Until Further Notice
 Assignment Status - Submitted
-Future Plans: Will come back to it once i figure out what i can use this for.
+
+Future Plans: Will come back to it once I figure out what I can use this for.
 ```
