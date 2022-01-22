@@ -1,5 +1,5 @@
-**# Jate Text Editor
-## Unit 19 PWA Homework: **
+# **Jate Text Editor**
+## Unit 19 PWA Homework:
 
 ## Description
 
