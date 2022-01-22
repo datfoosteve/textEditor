@@ -24,7 +24,7 @@ is being able to create notes
 or code snippets with or without an internet connection
 so with reliability
 you can retrieve them for later use.
-I wish this was a haiku
+~~I wish this was a haiku~~
 ```
 
 So this application - 
@@ -47,7 +47,7 @@ So this application -
 
   * is installed as a Progressive Web Application
   
-  * is not a haiku
+  * ~~is not a haiku~~
 
 ```
 
