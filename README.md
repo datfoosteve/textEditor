@@ -50,7 +50,7 @@ So this application -
 
 The following animation demonstrates the application functionality:
 
-![Demonstration of the finished Unit 19 Homework being used in the browser and then installed.](./Assets/00-demo.gif)
+![Demonstration of the finished Unit 19 Homework being used in the browser and then installed.](.\client\src\images\assets\00-demo.gif)
 
 The following image shows the application's `manifest.json` file:
 
