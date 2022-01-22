@@ -60,7 +60,7 @@ The following image shows the application's IndexedDB storage:
 
 ## Links
 
-[Deploy Link](https://datfoosteve.github.io/DayPlannerScheduler/)
+[Deploy Link](https://text-jeditor.herokuapp.com/)
 
 [GitHub Link](https://github.com/datfoosteve/textEditor
 
