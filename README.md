@@ -19,8 +19,9 @@ you can retrieve them for later use.
 I wish this was a haiku
 ```
 
-```md
 So this application - 
+
+```md
 
   * Uses IndexedDB to create an object store and includes both GET and PUT methods
 
